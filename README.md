@@ -1,3 +1,1 @@
-Meu primeiro sistema no GIT
-
-Criando o arquivo CSS, index e modificando o readme
+Meu primeiro sistema no GIT (alterado e atualizado!)
